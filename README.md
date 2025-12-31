@@ -1,5 +1,5 @@
 # Hola, mi nombre es Alexis 👋
-### Desarrollador de Software
+### Software Engineer
 
 ## Skills:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/)
@@ -33,4 +33,4 @@
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org)
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexisnlh/)
+[![Portfolio personal](https://img.shields.io/badge/github.io-alexisnlh-6366f1?style=flat&logo=github&logoColor=white&labelColor=000000)](https://alexisnlh.github.io)
