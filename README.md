@@ -1,5 +1,5 @@
 # Hola, mi nombre es Alexis 👋
-### Backend & Data Engineer
+### Backend Engineer / Data Engineer / Data Scientist & AI
 
 ## Skills:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/)
